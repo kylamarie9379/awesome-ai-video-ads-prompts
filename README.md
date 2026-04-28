@@ -26,6 +26,24 @@ This repository is built for marketers, founders, e-commerce sellers, app teams,
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Awesome AI UGC video prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts) - creator-native patterns with compliance-conscious structure.
+- [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
+- [Awesome AI TikTok video prompts](https://github.com/cliprise/awesome-ai-tiktok-video-prompts) - vertical short-form hooks and native-feel video patterns.
+- [Awesome AI YouTube Shorts prompts](https://github.com/cliprise/awesome-ai-youtube-shorts-prompts) - Shorts-first framing, hooks, and thumbnail-safe compositions.
+<!-- CLIPRISE_LINKING_END -->
+
+<!-- CLIPRISE_FURTHER_READING_START -->
+## Further reading from Cliprise
+
+- [Replacing a video production line item with AI (Medium)](https://medium.com/@cliprise/i-replaced-a-15k-video-production-budget-with-ai-heres-exactly-what-worked-and-what-didn-t-a6999fa688c3)
+- [AI content creation for marketing teams (LinkedIn)](https://www.linkedin.com/pulse/ai-content-creation-marketing-teams-2026-complete-operational-snwjf)
+
+<!-- CLIPRISE_FURTHER_READING_END -->
+
 ## What this repository is
 
 This repository is a practical prompt and workflow hub for users searching for:
